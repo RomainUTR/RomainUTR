@@ -1,4 +1,4 @@
-## Salut toi 👋
+## Hello, you! 👋
 
 Welcome on my page! I'm a Game Design/Development Student in Lyon, France. I'm 21 y.o.
 
