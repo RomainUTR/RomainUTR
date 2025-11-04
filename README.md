@@ -1,18 +1,15 @@
 ## Salut toi 👋
 
-Bienvenue sur ma page! Je suis Sir Link, un étudiant en Game Design et Game Development de 21 ans !
+Welcome on my page! I'm a Game Design/Development Student in Lyon, France. I'm 21 y.o.
 
-### Projets ✨
+### Projects ✨
 
-Certains de mes projets sont open source 👀  
-J'ai de divers projets comme :
+Some of my projects are open source 
 
-* **[Lightning]()**, projet créé avec un ami dans le but de développer nos propres bots Discord, notre première création se nomme Spiritual, un bot de musique.
+### Acknowledges 🖱️
 
-### Compétences 🖱️
+I work with few softs: Unity, Unreal Engine, Git, GitHub, Fork, Maya, Adobe Suite
 
-Je travaille à l'aide de différent logiciels : Unity, Unreal Engine, Photoshop, Maya et Substance Painter
+### Contact me 🤝
 
-### Contactez moi 🤝
-
-Je suis disponible sur **[Twitter](https://twitter.com/SirLink_)**.
+I'm available my mail.
