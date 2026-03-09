@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 1st Year Bachelor in Game Design (Tech Art & Programming)<br>🛠️ Tools: Unity (C#), Unreal Engine (C++/Blueprints), and Maya/Blender.<br>🧠 Philosophy: I value the "Architect’s Rule"—understanding the logic before writing the code.<br><br>I’m passionate about building robust systems for games, from custom tools to core gameplay mechanics. Feel free to check out my repositories to see how I handle logic and structure.
+🎓 1st Year Bachelor in Game Design (Tech Art & Programming)<br>🛠️ Tools: Unity (C#), Unreal Engine (C++/Blueprints), and Maya/Blender.<br>🧠 Philosophy: I always want to understanding the logic before writing the code.<br><br>I’m passionate about building robust systems for games, from custom tools to core gameplay mechanics. Feel free to check out my repositories to see how I handle logic and structure.
 
 
 ## 🌐 Socials:
